@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  background-image: radial-gradient(circle, #b2dafa, #a4c9e7, #97b8d3, #89a8c1, #7c98ae, #70899d, #647a8c, #586c7b, #4a5b68, #3d4b55, #303b43, #242c32);
+}
+h1{
+  margin: 0;
+}
