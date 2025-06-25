@@ -19,6 +19,7 @@ import coderhouse from "./assets/experiencia/coderhouse.png"
 import coally from "./assets/experiencia/coally.png"
 import tekal from "./assets/experiencia/tekal.jpg"
 import BorderCollie from "./assets/BorderCollie.jpg"
+
 function App() {
   const [hora, setHora] = useState(new Date().toLocaleTimeString())
   const [theme, setTheme] = useState("light")
